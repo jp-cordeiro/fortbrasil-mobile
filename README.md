@@ -2,6 +2,11 @@
 
 Projeto para teste prático: Construção de um sistema de gerenciamento de estabelecimentos - Mobile.
 
+## Outras partes que compõem a aplicação
+
+[BACKEND](https://github.com/jp-cordeiro/fortbrasil-backend)
+[FRONTEND](https://github.com/jp-cordeiro/fortbrasil-frontend)
+
 ## Como usar
 
 ### Instalação local
